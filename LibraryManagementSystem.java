@@ -9,6 +9,7 @@ class Book {
     boolean isAvailable;
 
     // Constructor
+    
     public Book(int bookId, String title, String author) {
         this.bookId = bookId;
         this.title = title;
